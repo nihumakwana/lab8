@@ -15,6 +15,6 @@ if ($result && mysqli_num_rows($result) == 1) {
 }
 
 
-header("Location: viewrecordes.php");
+header("Location: viewrecords.php");
 exit;
 ?>
