@@ -54,6 +54,24 @@
         </div>
     </div>
 </div>
+<div class="container">
+    <div class="row justify-content-center mt-3">
+    <div class="col-12 d-flex p-0">
+
+    
+      <div class="col-3 bg-success-subtle text-dark p-2 text-center">
+        Primary Key
+      </div>
+
+
+      <a href="Delet.php" class="col-9 bg-danger text-white p-2 text-center" style="text-decoration:none;">
+        To delete a record, click this button
+      </a>
+
+    </div>
+  </div>
+</div>
+
 
 </form>
         </div>
